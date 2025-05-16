@@ -1,0 +1,6 @@
+base\BaseClass.class
+pompages\LoginPage.class
+pompages\RegistrationPage.class
+pompages\CSVUploadPage.class
+pompages\DashboardPage.class
+pompages\AgentPage.class
